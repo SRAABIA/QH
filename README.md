@@ -18,8 +18,8 @@ This is a React Native project built with **Expo**. It demonstrates image proces
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Cyber-Naimo/Jobify.git
-cd Jobify
+git clone https://github.com/SRAABIA/QH
+cd QH
 
 ### 2. Install Dependencies
 
